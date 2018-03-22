@@ -1,3 +1,4 @@
 print("I will be 100 years old in the year 2080")
 name = input("what is your name: ")
-print(name + " will be 89 in the next 45 years")
+age = str(input("how old are you: "))
+print(name + " will be" + age + "years old in 2090")
